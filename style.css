@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(255, 255, 255);
+   
+}
+.container{
+    align-items: center;
+    align-self: center;
+    justify-content: space-evenly;
+    width: 17cm;
+    height: 7cm;
+    background-color: rgba(31, 3, 66, 0.041);
+    position: absolute;
+    left: 25%;
+    top: 25%;
+   
+}
